@@ -29,4 +29,17 @@ function sum(a, b) {
 let result = sum(1, 2);
 alert( result );
 ```
-
+## Experience
+---
+I worked for 4 months as a software engineer at the Mozyr oil refinery
+## Education
+---
+* Belarusian State University of Informatics and Radioelectronics 
+* Courses: 
+    * [Code Basics HTML](https://ru.code-basics.com/languages/html)
+    * [Code Basics CSS](https://ru.code-basics.com/languages/css)
+    * [ W3 School HTML ](https://www.w3schools.com/html/default.asp)
+    * [ W3 School CSS ](https://www.w3schools.com/css/default.asp)
+## English
+---
+A2
