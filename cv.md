@@ -10,7 +10,7 @@
 
 ## **About me**
 
-Proactive ingeneer programmer interested in grow as web developer.I am an excellent team workerand very willing to learn and develop new skills.
+Proactive ingeneer programmer interested in grow as web developer.I am an excellent team worker and very willing to learn and develop new skills.
 ## **Skills**
 
 * Java
