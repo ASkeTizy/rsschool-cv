@@ -208,17 +208,7 @@ body
 color: #081921;
 text-decoration: none;
 }
-/* .footer_style .rs_school_page
-{
-    flex-direction: row-reverse;
-    display: flex;
-    align-items: flex-start;
 
-} */
-/* .footer_style .footer_text{
-    display: flex;
-    align-items: center;
-} */
  
 @media(max-width : 1000px){
     .resume{
