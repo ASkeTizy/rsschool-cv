@@ -204,9 +204,15 @@ body
 .footer_style .github_page 
 {
      font-size: 30px;
-    
+     
 color: #081921;
 text-decoration: none;
+}
+.footer_style .rs_school_img 
+{
+    width: 60px;
+     
+    height:60px;
 }
 
  
